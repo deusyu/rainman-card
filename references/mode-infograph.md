@@ -25,7 +25,7 @@ Read `~/.claude/skills/ljg-card/assets/infograph_template.html`
 
 - **标题**：≤ 15 字
 - **副标题**：一句话核心 ≤ 30 字
-- **来源**：用户提供则用，否则 `李继刚`
+- **来源**：用户提供则用，否则 `Rainman @deusyu`
 - **REF 编码**：`REF—{领域} / {主题}`（写在画面上的位置由你决定）
 
 ### 2.2 三个维度
